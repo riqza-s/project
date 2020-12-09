@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+}
+.image{
+  height: 100px;
+  width: 100px;
+  justify-content: space-evenly;
+}
+.txt{
+  margin-left: 500px;
+  margin-top: 20px;
+}
+.btn{
+  padding: 3px;
+  background-color: rgb(173, 230, 195);
+  margin-left: 10px;
+}
+.fetchImg{
+  margin-top: 30px;
+  height: 200px;
+  width: 1500px;
+  display:'flex';
+  
+}
+.favrtImg{
+  margin-top: 30px;
+  height: 200px;
+  width: 1500px;
+  display:'flex';
+  
+}
+.favtText{
+  margin-left: 550px;
+  color: rgba(221, 51, 9, 0.808);
+
+}
+.image{
+  margin-left: 25px;
+}
